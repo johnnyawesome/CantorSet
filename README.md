@@ -31,7 +31,7 @@ Turns out there is another famous Fractal called the [Sierpinski Carpet](https:/
 
 This is the same as the Cantor Set, just in two dimensions.
 
-If you want to learn more about the Sierpinski Carpet, check out [this link](https://github.com/johnnyawesome/SierpinskiCarpet)
+If you want to learn more about the Sierpinski Carpet, check out [this link](https://github.com/johnnyawesome/SierpinskiCarpet).
 
 But wait, it gets better!
 
