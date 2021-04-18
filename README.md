@@ -15,7 +15,7 @@ To learn more about the Cantor Set, check out [this post](https://breaksome.tech
 
 ## Other, Closely related Fractals
 
-The Cantor Set actually is a one-dimensional version of two very, very famous Fractals:
+The Cantor Set actually is a one-dimensional version of two other very, very famous Fractals:
 
 ### The Sierpinski Carpet
 
