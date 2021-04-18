@@ -45,6 +45,6 @@ It's called a [Menger Sponge](https://github.com/johnnyawesome/MengerSponge)!
 
 And - you guessed it - it's a three-dimensional Cantor Set!
 
-You can find my version of the Menger Sponge [right here](https://github.com/johnnyawesome/MengerSponge) ! 
+You can find my version of the Menger Sponge [right here](https://github.com/johnnyawesome/MengerSponge)! 
 
 
