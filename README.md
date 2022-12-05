@@ -5,14 +5,6 @@ The Cantor Set was the first Fractal ever discovered!
 
 ![Cantor Set](https://github.com/johnnyawesome/CantorSet/blob/master/CantorSet/DemoImages/CantorSet.jpg)
 
-## More Information
-
-To learn more about the Cantor Set, check out [this post](https://breaksome.tech/the-grandfather-of-fractals:-the-cantor-set-in-p5js/) where I described in great detail:
-
-- What the Cantor Set is
-- How it works
-- How you can code it yourself
-
 ## Other, Closely related Fractals
 
 The Cantor Set actually is a one-dimensional version of two other very, very famous Fractals:
