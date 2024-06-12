@@ -1,7 +1,7 @@
 # CantorSet
-The famous Cantor Set written in P5JS
+The famous [Cantor Set](https://en.wikipedia.org/wiki/Cantor_set) written in [P5JS](https://p5js.org/)
 
-The Cantor Set was the first Fractal ever discovered!
+The [Cantor Set](https://en.wikipedia.org/wiki/Cantor_set) was the first [Fractal](https://en.wikipedia.org/wiki/Fractal) ever discovered!
 
 ![Cantor Set](https://github.com/johnnyawesome/CantorSet/blob/master/CantorSet/DemoImages/CantorSet.jpg)
 
